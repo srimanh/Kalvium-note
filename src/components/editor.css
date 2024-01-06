@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&family=Roboto:wght@300&family=Space+Mono&display=swap');
+
+body{
+    background-color: blueviolet;
+}
+.input-components{
+    display: flex;
+    justify-content: space-around;
+}
+.input-text{
+    height: 550px;
+    width: 750px;
+    background-color: blueviolet;
+    border: 2px solid black;
+    font-size: 1rem;
+    font-family: 'Space Mono', monospace;
+    color: white;
+}
+
+.output-text{
+    height: 600px;
+    width: 550px;
+    background-color: rgb(47, 47, 47);
+    color: white;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5rem;
+}
